@@ -1,16 +1,13 @@
 ## Hi there 👋
+✨ Welcome to my GitHub profile! I'm Xiang Lee, currently a student majoring in Artificial Intelligence at National Chung Hsing University. Here's a bit more about me:
 
-<!--
-**Xiang-lee03/Xiang-lee03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently diving into AI engineering, with a special focus on medical technology and image recognition.
+💻 My projects include:
+🚮 Smart Recycling Bin Classification
+🧠 Depression Prediction from Social Media
+📈 Stock Market Trend Forecasting
+🔍 I'm looking to collaborate on: AI projects that aim to solve real-world problems, especially in the medical or environmental fields.
+📫 How to reach me:
+📧 Email: joninglee18@gmail.com
+⚡ Fun fact: I'm a fan of interdisciplinary learning and have explored everything from coding to performing arts like drumming!
+💬 Feel free to connect or ask me about anything AI-related, or even some fun insights into Taiwan's culture 🌏.
